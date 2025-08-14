@@ -53,7 +53,7 @@ export default function RightMenu() {
           className="w-[24px] h-[24px]"
         />
       </button> */}
-
+      <p className="hidden"></p>
       {/* Nav */}
       <div className="w-[48px] h-[908px] gap-[32px] flex justify-center items-center">
         <div className="w-full h-[448px] gap-[32px] flex flex-col">
